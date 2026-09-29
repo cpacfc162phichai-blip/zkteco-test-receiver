@@ -1,0 +1,12 @@
+{
+  "name": "zkteco-adms-test-receiver",
+  "version": "1.0.0",
+  "description": "ระบบทดสอบรับข้อมูลจากเครื่องสแกน ZKTeco (ADMS Push)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
